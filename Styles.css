@@ -1,0 +1,217 @@
+html {background: black}
+@font-face {font-family:EB Garamond;
+font-style:normal;
+font-weight:100;
+src:url(https://fonts.googleapis.com/css2?family=EB+Garamond)
+}
+body{background:rgb(88, 61, 61);
+    width:100%;
+    height:100%;
+    margin: 9 auto;
+    padding: 4rem;
+
+
+}
+h1 {background-color:lightgray;
+    border:3px solid black;
+    width:30%;
+    border-radius:6px;
+    padding:5px;
+    position:relative;
+    left:1%;
+
+}
+.button1 {background-color:rgb(158, 128, 240);
+    outline:2px solid black;
+    border-radius:3px;
+    height:5%;
+    width:8%;
+    position:relative;
+    left:1%;
+    font-size:1.5vw;
+}
+.button2 {background-color:rgb(158, 128, 240);
+    outline:2px solid black;
+    border-radius:3px;
+    height:5%;
+    width:8%;
+    position:relative;
+    left:2%;
+    font-size:1.5vw;
+}
+.button3 {background-color:rgb(158, 128, 240);
+    outline:2px solid black;
+    border-radius:3px;
+    height:5%;
+    width:8%;
+    position:relative;
+    left:3%;
+    font-size:1.5vw;
+}
+.button4 {background-color:rgb(158, 128, 240);
+    outline:2px solid black;
+    border-radius:3px;
+    height:5%;
+    width:8%;
+    position:relative;
+    left:4%;
+    font-size:1.5vw;
+}
+.button5 {background-color:rgb(158, 128, 240);
+    outline:2px solid black;
+    border-radius:3px;
+    height:3%;
+    width:8%;
+    position:relative;
+    left:4%;
+    font-size:1.5vw;
+}
+.button6 {background-color:rgb(158, 128, 240);
+    outline:2px solid black;
+    border-radius:3px;
+    height:5%;
+    width:8%;
+    position:relative;
+    left:5%;
+    font-size:1.5vw;
+}
+.button7 {background-color:rgb(158, 128, 240);
+    outline:2px solid black;
+    border-radius:3px;
+    height:5%;
+    width:8%;
+    position:relative;
+    left:1%;
+    font-size:1vw;
+}
+.button8 {background-color:rgb(158, 128, 240);
+    outline:2px solid black;
+    border-radius:3px;
+    height:5%;
+    width:8%;
+    bottom:-0.5%;
+    position:relative;
+    left:2%;
+    font-size:1vw;
+}
+.p1 {background-color:lightgray;
+    border:2px solid black;
+    min-width:100px;
+    height:35%;
+    border-radius:2px;
+    padding:2px;
+    position:relative;
+    left:1%;
+    width:20%;
+    bottom:10px;
+    font-size:2vw;
+    overflow:auto;
+    
+
+}
+.p2 {background-color:lightgray;
+    border:2px solid black;
+    min-width:100px;
+    height:35%;
+    border-radius:2px;
+    padding:2px;
+    position:relative;
+    left:25%;
+    width:25%;
+    bottom:39%;
+    overflow:auto;
+    font-size:2vw;
+}
+.rondon {position:relative;
+    bottom:83%;
+    width:30%;
+    height:30%;
+    left:55%;
+    min-width:100px;
+    border:3px solid black;
+    border-radius:9px;
+    overflow:auto;
+
+}
+h2 {position:relative;
+    bottom:83%;
+    width:40%;
+    left:55%;
+    background-color:lightgray;
+    border:3px solid black;
+    border-radius:9px;
+    min-width: 200px;
+    width:25%;
+    overflow:auto;
+
+
+}
+.head1 {position:relative;
+    bottom:34%;
+    width:45%;
+    left:35%;
+    background-color:lightgray;
+    border:3px solid black;
+    border-radius:9px;
+    min-width: 200px;
+    width:25%;
+    overflow:auto;
+
+}
+.story1 {background-color:lightgray;
+    border:2px solid black;
+    min-width:200px;
+    height:50%;
+    border-radius:2px;
+    padding:2px;
+    position:relative;
+    left:28%;
+    width:58%;
+    bottom:34.7%;
+    overflow:auto;
+    font-size:2vw;
+
+}
+header {background-color:lightgray;
+    font-size:larger;
+    font-weight: bolder;
+    border:3px solid black;
+    width:310px;
+    bottom:0%;
+    border-radius:6px;
+    padding:5px;
+    position:relative;
+    left:0px;}
+th {background-color:lightgray;
+    border:3px solid black;
+    width:310px;
+    border-radius:6px;
+    bottom:0%;
+    padding:5px;
+    position:relative;
+    left:0px;}
+
+td {background-color:lightgray;
+    border:3px solid black;
+    width:310px;
+    border-radius:6px;
+    padding:5px;
+    position:relative;
+    left:0px;}
+
+form {background-color:lightgray;
+    border:3px solid black;
+    width:310px;
+    border-radius:6px;
+    padding:5px;
+    position:relative;
+    left:0px;}
+    h3 {background-color:lightgray;
+        border:3px solid black;
+        width:30%;
+        border-radius:6px;
+        padding:5px;
+        position:relative;
+        left:1%;
+    
+    }
